@@ -14,6 +14,19 @@ Print numbers from 1 to 100, with the following rules:
 
 The solution is easily adaptable to other ranges and rules.
 
+## Example output
+
+1
+2
+Fizz
+4
+Buzz
+Fizz
+...
+14
+FizzBuzz
+...
+
 ##  Features
 
 - Modular design

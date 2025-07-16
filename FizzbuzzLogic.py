@@ -80,11 +80,11 @@ class FizzBuzzLogic:
         fb_rules = rules.copy() if rules is not None else self.rules
         validate_rules(fb_rules)
 
-        self.result = [
-            self.fizzbuzz_logic_adv(i)
+        result = [
+            self.fizzbuzz_logic_adv(i, fb_rules)
             for i in range(self.start, self.end + 1)
         ]
-        return self.result
+        return result
     
 
     def fizzbuzz_logic(self, num: int) -> str:

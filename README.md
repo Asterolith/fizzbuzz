@@ -16,7 +16,8 @@ The solution is easily adaptable to other ranges and rules.
 
 ## Example output
 
->>> fizzbuzz(1, 100)
+fizzbuzz(1, 100)
+
 ['1', '2', 'Fizz', '4', 'Buzz', ...]
 
 ##  Features

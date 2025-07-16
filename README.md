@@ -16,16 +16,8 @@ The solution is easily adaptable to other ranges and rules.
 
 ## Example output
 
-1
-2
-Fizz
-4
-Buzz
-Fizz
-...
-14
-FizzBuzz
-...
+>>> fizzbuzz(1, 100)
+['1', '2', 'Fizz', '4', 'Buzz', ...]
 
 ##  Features
 
